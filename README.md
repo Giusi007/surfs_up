@@ -14,9 +14,9 @@ View the results of the statistical summary for each month here:
 <br><img src="Dec_Temps_Summary.png"></img></br>
 <br></br>
 While weather on the island is fairly consistent throughout the year, there are some notable differences between the months of June and December:
-    1. The mean temperature is 3 degrees higher in June.
-    2. The minimum temperature in December (56) is much lower than the minimum temperature in June (64).
-    3. There are less recorded temperatures available for December.
+    <br>1. The mean temperature is 3 degrees higher in June.
+    <br>2. The minimum temperature in December (56) is much lower than the minimum temperature in June (64).
+    <br>3. There are less recorded temperatures available for December.
     
 ## Summary
 The standard deviation in both months is similar, showing that the spread of temperatures is relatively small. This consistent weather suggests that this location would be great for W. Avy's surf and ice cream shop. Of course, temperature is not the only aspectof climate that is important when determining in this is a good location.
