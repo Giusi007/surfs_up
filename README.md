@@ -22,5 +22,5 @@ While weather on the island is fairly consistent throughout the year, there are 
 The standard deviation in both months is similar, showing that the spread of temperatures is relatively small. This consistent weather suggests that this location would be great for W. Avy's surf and ice cream shop. Of course, temperature is not the only aspectof climate that is important when determining in this is a good location.
 
 Two additional queries that could be run to build a more complete picture would be:
-    1. How much precipitation Oahu gets in June and December.
-    2. What wind patterns are like in oahu in June and December.
+    <br>1. How much precipitation Oahu gets in June and December.
+    <br>2. What wind patterns are like in oahu in June and December.
