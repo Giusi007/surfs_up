@@ -7,6 +7,6 @@ The purpose of this analysis was to gather recorded temperatures on the island o
 ## Results
 View the results of the statistical summary for each month here:
 JUNE
-June_Temps_Summary.png
+<img src="June_Temps_Summary.png"></img>
 DECEMBER
-Dec_Temps_Summary.png
+<img src="Dec_Temps_Summary.png"></img>
